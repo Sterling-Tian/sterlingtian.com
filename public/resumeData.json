@@ -64,16 +64,23 @@
     "work":[
       {
         "company":"SmallNeighborhood",
-        "title":"Software Design",
+        "title":"Software Engineer",
         "years":"June 2020 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"As a full-stack developer I developed features for SmallNeighborhood, and ethical online ordering platform in Milwaukee"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
+        "company":"Tier 1 Gaming Lounge",
+        "title":"Cyber Security Analyst",
+        "years":"July 2019 - March 2020",
+        "description":"I strengthened the network at Tier 1 by implementing an IDS/IPS, teaching staff about social engineering, and inventorying all the hardware"
+      },
+      {
+        "company":"United States Marine Corps",
+        "title":"Corporal of the Marine Corps Reserves",
+        "years":"May 2017 - Present",
+        "description":"As a fireteam leader I manage accountability of four marines and make sure they are ready for duty"
+      },
+
     ],
     "skills":[
       {
