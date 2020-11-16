@@ -1,26 +1,26 @@
 {
   "main": {
     "name":"Sterling Tian",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"I am a software engineer and artist, thanks for stopping by!",
     "image":"profilepic.png",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Programmer, artist, bassist, and board game enthusiast with a passion for history and service to country.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "sterling.tian@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "phone": "(414)248-7658",
+    "github":"https://github.com/Sterling-Tian/sterlingtian.com",
+    "project":"sterlingtian.com#portfolio",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"Greendale",
+      "state":"Wisconsin",
+      "zip": "53129"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/sterling.tian",
         "className":"fa fa-facebook"
       },
       {
@@ -30,17 +30,17 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/sterlingtian/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://github.com/Sterling-Tian/sterlingtian.com",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/Sterling-Tian/sterlingtian.com",
         "className":"fa fa-github"
       }
     ]
