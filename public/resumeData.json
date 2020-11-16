@@ -2,7 +2,7 @@
   "main": {
     "name":"Sterling Tian",
     "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
+    "image":"profilepic.png",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "sterling.tian@gmail.com",
@@ -80,6 +80,19 @@
         "years":"May 2017 - Present",
         "description":"As a fireteam leader I manage accountability of four marines and make sure they are ready for duty"
       },
+      {
+        "company":"Freelance Artist",
+        "title":"Concept Artist",
+        "years":"June 2016 - May 2017",
+        "description":"I found gigs and created art for clients"
+      },
+      {
+        "company":"aCardboardbox Games",
+        "title":"Lead Designer",
+        "years":"June 2016 - May 2017",
+        "description":"I found gigs and created art for clients"
+      }
+
 
     ],
     "skills":[
@@ -116,34 +129,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Urban Eats MKE",
+        "category":"I created the front-end and logo for this project.",
+        "image":"urbanEats.png",
+        "url":"https://www.urbaneatsmke.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"SmallNeighborhood",
+        "category":"I created the filter feature for this online ordering platform.",
+        "image":"smallNeighborhood.png",
+        "url":"http://www.smallneighborhood.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"City Dome and Convention Center Capstone Project",
+        "category":"I created the back-end for this project using MySQL and PHP.",
+        "image":"CDCC.png",
+        "url":"http://tians.uwmsois.com/CD&CCProject/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Password Generator",
+        "category":"An excercise in password generation using Advanced Encryption Standards (AES).",
+        "image":"passwordGenerator.png",
+        "url":"http://tians.uwmsois.com/InfoSec385Final/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Blasteroids",
+        "category":"I programmed, animated, and designed this video game.",
+        "image":"blasteroids.png",
+        "url":"https://www.newgrounds.com/portal/view/632947"
       }
     ]
   }
