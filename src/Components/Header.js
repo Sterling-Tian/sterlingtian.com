@@ -1,7 +1,19 @@
 import React, { Component } from 'react';
 import ParticlesBg  from "particles-bg";
+import ImageGallery from 'react-image-gallery'
 
+const images = [
+   {
+      thumbnail:'blasteroids.png',
+      original: 'blasteroids.png'
+   },
+   {
+      thumbnail:'profilepic.png',
+      original: 'profilepic.png'
+   }
+]
 class Header extends Component {
+   
   render() {
 
     if(this.props.data){
@@ -17,7 +29,8 @@ class Header extends Component {
 
     return (
       <header id="home">
-      <ParticlesBg type="circle" bg={true} />
+      {/* <ParticlesBg type="circle" bg={true} /> */}
+     
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
@@ -41,7 +54,9 @@ class Header extends Component {
                <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>Project</a>
                <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
             </ul>
+            
          </div>
+         <ImageGallery items={images} />
       </div>
 
       <p className="scrolldown">
