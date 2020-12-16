@@ -211,7 +211,7 @@ header .banner-text h3 a {
       margin: -450px 20px auto -15px;
    }
 } 
-@media only screen and (min-width:1450px)
+@media only screen and (min-width:1400px)
 {
    .banner-text h1{
       margin: -540px 20px auto 300px;
@@ -220,7 +220,43 @@ header .banner-text h3 a {
    .banner-text h3{
       font: 17px/1.9em 'librebaskerville-regular', serif;
       width: 80%;
-      margin: -450px 20px auto -100px;
+      margin: -450px 20px auto  -80px;
+   }
+} 
+@media only screen and (min-width:1500px)
+{
+   .banner-text h1{
+      margin: -540px 20px auto 300px;
+      font: 70px/1.1em 'opensans-bold', sans-serif;
+   }
+   .banner-text h3{
+      font: 17px/1.9em 'librebaskerville-regular', serif;
+      width: 80%;
+      margin: -450px 20px auto -230px;
+   }
+} 
+@media only screen and (min-width:1600px)
+{
+   .banner-text h1{
+      margin: -540px 20px auto 300px;
+      font: 70px/1.1em 'opensans-bold', sans-serif;
+   }
+   .banner-text h3{
+      font: 17px/1.9em 'librebaskerville-regular', serif;
+      width: 80%;
+      margin: -450px 20px auto -130px;
+   }
+} 
+@media only screen and (min-width:1600px)
+{
+   .banner-text h1{
+      margin: -540px 20px auto 300px;
+      font: 70px/1.1em 'opensans-bold', sans-serif;
+   }
+   .banner-text h3{
+      font: 17px/1.9em 'librebaskerville-regular', serif;
+      width: 80%;
+      margin: -450px 20px auto -230px;
    }
 } 
 
