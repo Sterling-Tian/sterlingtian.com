@@ -116,7 +116,7 @@ header .banner-text h3 a {
       
    }
    .banner-text h3{
-      font: 13px 'librebaskerville-regular', serif;
+      font: 12px 'librebaskerville-regular', serif;
       
       margin: -350px 20px auto 20px;
    }
@@ -130,7 +130,7 @@ header .banner-text h3 a {
       
    }
    .banner-text h3{
-      font: 14px 'librebaskerville-regular', serif;
+      font: 13px 'librebaskerville-regular', serif;
       
       margin: -350px 20px auto 20px;
    }
@@ -144,7 +144,7 @@ header .banner-text h3 a {
       
    }
    .banner-text h3{
-      font: 15px 'librebaskerville-regular', serif;
+      font: 14px 'librebaskerville-regular', serif;
       width: 80%;
       margin: -380px 20px auto 25px;
    }
@@ -157,7 +157,7 @@ header .banner-text h3 a {
       letter-spacing: -1px;  
    }
    .banner-text h3{
-      font: 17px/1.9em 'librebaskerville-regular', serif;
+      font: 15px/1.9em 'librebaskerville-regular', serif;
       width: 80%;
       margin: -420px 20px auto 25px;
    }
@@ -166,37 +166,49 @@ header .banner-text h3 a {
 {
    .banner-text h1{
       margin: -500px 20px auto 230px;
-      font: 65px/1.1em 'opensans-bold', sans-serif;
+      font: 70px/1.1em 'opensans-bold', sans-serif;
    }
    .banner-text h3{
-      font: 17px/1.9em 'librebaskerville-regular', serif;
+      font: 16px/1.9em 'librebaskerville-regular', serif;
       width: 80%;
-      margin: -420px 20px auto 30px;
+      margin: -400px 20px auto 20px;
    }
 } 
 @media only screen and (min-width:1024px)
 {
    .banner-text h1{
-      margin: -500px 20px auto 250px;
-      font: 65px/1.1em 'opensans-bold', sans-serif;
+      margin: -500px 20px auto 210px;
+      font: 75px/1.1em 'opensans-bold', sans-serif;
       
    }
    .banner-text h3{
-      font: 18px/1.9em 'librebaskerville-regular', serif;
+      font: 17px/1.9em 'librebaskerville-regular', serif;
       width: 80%;
-      margin: -420px 20px auto 30px;
+      margin: -410px 20px auto 20px;
    }
 }
 @media only screen and (min-width:1200px)
 {
    .banner-text h1{
-      margin: -550px 20px auto 300px;
+      margin: -540px 20px auto 300px;
       font: 70px/1.1em 'opensans-bold', sans-serif;
    }
    .banner-text h3{
-      font: 19px/1.9em 'librebaskerville-regular', serif;
+      font: 17px/1.9em 'librebaskerville-regular', serif;
       width: 80%;
-      margin: -450px 20px auto -20px;
+      margin: -450px 20px auto 25px;
+   }
+} 
+@media only screen and (min-width:1450px)
+{
+   .banner-text h1{
+      margin: -540px 20px auto 300px;
+      font: 70px/1.1em 'opensans-bold', sans-serif;
+   }
+   .banner-text h3{
+      font: 17px/1.9em 'librebaskerville-regular', serif;
+      width: 80%;
+      margin: -450px 20px auto -115px;
    }
 } 
 
