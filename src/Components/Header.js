@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import ParticlesBg  from "particles-bg";
+
 import ImageGallery from 'react-image-gallery'
 import art from "../img/profilepic.png";
 import doge from "../img/doge.png";
-import igloo from "../img/igloo.png";
+
 import mke from "../img/mke.png";
 import robot from "../img/robot.png";
 import sn from "../img/sn.png";
@@ -31,30 +31,9 @@ const images = [
    {
       
       original: sn
-   },
-   {
-      
-      original: igloo
    }
 ]
-const images2 = [
-   {
-      
-      original: ccc
-   },
-   {
-      
-      original: mke
-   },
-   {
-      
-      original: robot
-   },
-   {
-      
-      original: sn
-   }
-]
+
 class Header extends Component {
    
   render() {

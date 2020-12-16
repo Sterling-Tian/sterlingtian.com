@@ -1,5 +1,28 @@
 import React, { Component } from 'react';
+import ccc from "../img/ccc.png";
+import eats from "../img/eats.png";
+import policy from "../img/policy.png";
+import snHeader from "../img/snHeader.png";
 
+import ImageGallery from 'react-image-gallery'
+const images = [
+  {
+     
+     original: ccc
+  },
+  {
+     
+     original: eats
+  },
+  {
+     
+     original: policy
+  },
+  {
+     
+     original: snHeader
+  }
+]
 class Resume extends Component {
 
   getRandomColor() {
@@ -39,7 +62,7 @@ class Resume extends Component {
 
     return (
       <section id="resume">
-
+       
       <div className="row education">
          <div className="three columns header-col">
             <h1><span>Education</span></h1>
@@ -71,10 +94,10 @@ class Resume extends Component {
       <div className="row skill">
 
          <div className="three columns header-col">
-            <h1><span>Skills</span></h1>
+            <h1><span>Designs</span></h1>
          </div>
-
-         <div className="nine columns main-col">
+         <ImageGallery showThumbnails={false} showGalleryPlayButton ={false} showPlayButton = {false} showGalleryFullscreenButton = {false} items={images} isRTL = {true}/>
+         {/* <div className="nine columns main-col">
 
             <p>{skillmessage}
             </p>
@@ -84,7 +107,7 @@ class Resume extends Component {
 					  {skills}
 					</ul>
 				</div>
-			</div>
+			</div> */}
       </div>
    </section>
     );
