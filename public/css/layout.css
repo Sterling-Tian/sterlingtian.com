@@ -232,7 +232,7 @@ header .banner-text h3 a {
    .banner-text h3{
       font: 17px/1.9em 'librebaskerville-regular', serif;
       width: 80%;
-      margin: -450px 20px auto -230px;
+      margin: -450px 20px auto -100px;
    }
 } 
 @media only screen and (min-width:1600px)
@@ -244,10 +244,10 @@ header .banner-text h3 a {
    .banner-text h3{
       font: 17px/1.9em 'librebaskerville-regular', serif;
       width: 80%;
-      margin: -450px 20px auto -130px;
+      margin: -450px 20px auto -120px;
    }
 } 
-@media only screen and (min-width:1600px)
+@media only screen and (min-width:1700px)
 {
    .banner-text h1{
       margin: -540px 20px auto 300px;
