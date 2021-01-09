@@ -159,5 +159,20 @@
         "url":"https://www.newgrounds.com/portal/view/632947"
       }
     ]
+  },
+  "testimonials":{
+    "testimonials": [
+      {
+        "user":"Patton Nguyen",
+        "text":"I had the pleasure of working with Sterling on the SmallNeighborhood project as the team lead. Sterling demonstrated the strong foundation of computer programming and the ability to quickly learn new technologies. I’m looking forward to collaborating with him again on a different project."
+      },
+      {
+        "user":"Sgt. Daniel Magyar",
+        "text":"I have had the pleasure of serving alongside Corporal Tian in the Marine Corps as his Platoon Sergeant. Over the past few years, Corporal Tian has stood out as one of the most driven, reliable, and enthusiastic Marines I have ever worked with. Corporal Tian is a strong leader who looks out for those in his charge and always gets the job done."
+      }
+    ]
   }
+  
+
+  
 }
