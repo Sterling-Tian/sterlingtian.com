@@ -74,11 +74,65 @@ header .banner-text h3 span,
 header .banner-text h3 a {
    color: rgb(43, 54, 153);
 }
-@media only screen and (max-width:479px)
+@media only screen and (min-width:330px)
 {
    
    .banner-text h1{
-      margin: -350px 20px auto 55px;
+      margin: -240px -25px auto 35px;
+      font: 35px 'opensans-bold', sans-serif;
+      letter-spacing: -2px;  
+      
+   }
+   .banner-text h3{
+      font: 10px 'librebaskerville-regular', serif;
+      
+      margin: -190px 35px auto 10px;
+   }
+   
+
+
+}
+@media only screen and (min-width:352px)
+{
+   
+   .banner-text h1{
+      margin: -250px -25px auto 35px;
+      font: 35px 'opensans-bold', sans-serif;
+      letter-spacing: -2px;  
+      
+   }
+   .banner-text h3{
+      font: 10px 'librebaskerville-regular', serif;
+      
+      margin: -200px 35px auto 10px;
+   }
+   
+
+
+}
+@media only screen and (min-width:380px)
+{
+   
+   .banner-text h1{
+      margin: -280px -25px auto 55px;
+      font: 40px 'opensans-bold', sans-serif;
+      letter-spacing: -2px;  
+      
+   }
+   .banner-text h3{
+      font: 10px 'librebaskerville-regular', serif;
+      
+      margin: -220px 35px auto 10px;
+   }
+   
+
+
+}
+@media only screen and (min-width:430px)
+{
+   
+   .banner-text h1{
+      margin: -315px 5px auto 55px;
       font: 45px 'opensans-bold', sans-serif;
       letter-spacing: -2px;  
       
@@ -86,7 +140,25 @@ header .banner-text h3 a {
    .banner-text h3{
       font: 11px 'librebaskerville-regular', serif;
       
-      margin: -280px 20px auto 10px;
+      margin: -250px 35px auto 10px;
+   }
+   
+
+
+}
+@media only screen and (min-width:460px)
+{
+   
+   .banner-text h1{
+      margin: -315px 5px auto 55px;
+      font: 45px 'opensans-bold', sans-serif;
+      letter-spacing: -2px;  
+      
+   }
+   .banner-text h3{
+      font: 10px 'librebaskerville-regular', serif;
+      
+      margin: -250px 35px auto 10px;
    }
    
 
@@ -96,15 +168,15 @@ header .banner-text h3 a {
 {
    
    .banner-text h1{
-      margin:  -350px 20px auto 70px;
+      margin:  -350px 30px auto 70px;
       font: 45px 'opensans-bold', sans-serif;
       letter-spacing: -2px;   
       
    }
    .banner-text h3{
-      font: 11px 'librebaskerville-regular', serif;
+      font: 10px 'librebaskerville-regular', serif;
       
-      margin: -280px 20px auto 10px;;
+      margin: -280px 30px auto 22px;;
    }
 }
 @media only screen and (min-width:600px)
@@ -118,7 +190,7 @@ header .banner-text h3 a {
    .banner-text h3{
       font: 12px 'librebaskerville-regular', serif;
       
-      margin: -350px 20px auto 20px;
+      margin: -350px 20px auto 50px;
    }
 }
 @media only screen and (min-width:640px)
@@ -132,7 +204,21 @@ header .banner-text h3 a {
    .banner-text h3{
       font: 13px 'librebaskerville-regular', serif;
       
-      margin: -350px 20px auto 20px;
+      margin: -350px 20px auto 40px;
+   }
+} 
+@media only screen and (min-width:690px)
+{
+   .banner-text h1{
+      margin: -460px 20px auto 95px;
+      font: 65px/1.1em 'opensans-bold', sans-serif;
+      letter-spacing: -1px;  
+      
+   }
+   .banner-text h3{
+      font: 14px 'librebaskerville-regular', serif;
+      
+      margin: -370px 20px auto 55px;
    }
 } 
 @media only screen and (min-width:768px)
